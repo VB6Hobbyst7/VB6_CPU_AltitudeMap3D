@@ -1,0 +1,7 @@
+modGL = 50, 50, 1122, 447, 
+frmMain = 88, 238, 1160, 556, , 75, 75, 1147, 472, C
+modGPUKMap = 85, 108, 1157, 505, Z
+modShaderUtil = 464, 55, 1536, 452, 
+modMisc = 100, 100, 917, 442, 
+modBmpFile = 0, 0, 0, 0, C
+modMath = 0, 0, 0, 0, C

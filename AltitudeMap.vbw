@@ -1,0 +1,17 @@
+frmMain = 176, 109, 965, 507, C, 25, 17, 899, 558, C
+modAltMap = 150, 150, 939, 548, 
+modMisc = 175, 175, 964, 573, 
+modScene = 418, 75, 1490, 694, 
+modMath = 25, 25, 814, 423, 
+clsTimer = 50, 50, 839, 448, C
+modNormalMap = 100, 100, 1171, 497, 
+modMap = 125, 125, 1196, 522, 
+modKMap = 150, 150, 1221, 547, 
+modWalkMap = 554, -10, 1625, 387, 
+modWalkNormalMap = -16, 303, 1055, 700, 
+modTextureMap = 100, 100, 1170, 497, 
+modMeta = 125, 125, 1195, 522, 
+modRenderer = 150, 150, 1362, 702, 
+clsCharacter = 175, 175, 964, 573, C
+modConfig = 125, 125, 912, 523, 
+modBmpFile = 25, 25, 812, 423, 
